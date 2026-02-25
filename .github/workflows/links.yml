@@ -31,7 +31,7 @@ jobs:
       - name: Check links
         uses: lycheeverse/lychee-action@v2
         with:
-          lycheeVersion: "latest"
+          lycheeVersion: "v0.22.0"
           args: |
             --no-progress
             --include-fragments
