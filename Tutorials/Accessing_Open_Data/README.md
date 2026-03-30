@@ -1,16 +1,15 @@
-# Quick start
+# Accessing Open Data
 
-Click a badge below to run the notebooks
+## Topics
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gw-odw/odw/HEAD)
+Those tutorials show how to access Open Data with different packages:
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gw-odw/odw/blob/main/)
-
-## Challenge Questions
-
-* Answer associated challenge questions in the [online course](https://learn.gwosc.org)
+- Discover Gravitational Wave Open Data. Working with segments lists and Timelines
+- Introduction to GWpy: the TimeSeries class, plotting and simple data manipulation
+- Introduction to PyCBC
 
 ## More documentation
 
-* [gwosc client](https://pypi.org/project/gwosc/)
-* [GWpy home page](https://gwpy.github.io)
+- [gwosc client home page](https://git.ligo.org/gwosc/client)
+- [GWpy home page](https://gwpy.readthedocs.io/en/stable/)
+- [PyCBC home page](https://pycbc.org/)

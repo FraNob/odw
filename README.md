@@ -23,7 +23,11 @@ Feel free to pick the one that best suits your needs.
 
 ## Hands-on sessions
 
-The [tutorials](./Tutorials/) are divided in three folders for each day of hands-on sessions. In there, you can find a summary of their topics.
+The [tutorials](./Tutorials/) are divided in thematic folders. In there, you can find a summary of their topics.
+
+## Extension topics
+
+The [Extension_topics](./Extension_topics) folder contains optional tutorials that may not be part of the ODW hands-on session.
 
 ## Data Challenge
 

@@ -1,16 +1,14 @@
-# Quick start
+# Parameter estimation
 
-Click a badge below to run the notebooks
+## Topics
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gw-odw/odw/HEAD)
+These tutorials show parameter estimation:
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gw-odw/odw/blob/main/)
+- Parameter Estimation with Bilby
+- Skymaps
 
-## Challenge Questions
-
-* Answer associated challenge questions in the [online course](https://learn.gwosc.org)
 
 ## More documentation
 
-* [bilby documentation](https://lscsoft.docs.ligo.org/bilby/index.html)
-* [PyCBC documentation](https://pycbc.org/pycbc/latest/html/)
+* [bilby homepage](https://bilby-dev.github.io/bilby/)
+* [PyCBC homepage](https://pycbc.org/)

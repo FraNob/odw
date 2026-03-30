@@ -1,18 +1,12 @@
-## Quick start
+# Searches
 
-Click a badge below to run the notebooks
+## Topics
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gw-odw/odw/HEAD)
+Those tutorials show the techniques used to detect signals in the data:
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gw-odw/odw/blob/main/)
+- Matched filtering to identify compact object mergers
+- Working with compact object merger parameters and waveforms
 
+## More documentation
 
-### Challenge Questions
-
-* Answer associated challenge questions in the [online course](https://learn.gwosc.org)
-
-### More documentation
-
-* [bilby documentation](https://lscsoft.docs.ligo.org/bilby/index.html)
-* [PyCBC documentation](https://pycbc.org/pycbc/latest/html/)
-
+- [PyCBC home page](https://pycbc.org/)
