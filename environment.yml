@@ -30,4 +30,5 @@ dependencies:
 # Development dependencies
 - codespell=2.4.2
 - lychee=0.23.0
+- cryptography=43.0.0
 name: odw-py312
