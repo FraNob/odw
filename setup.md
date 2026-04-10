@@ -94,7 +94,47 @@ This guide will walk you through the configuration of this environment (named `o
 
    `jupyter notebook` and select the kernel `odw-py312` if this is not done by default.
 
-## Option 4: Linux install on Windows with dedicated app (Windows 10 or 11)
+## Option 4: You have a Linux or Apple/Mac computer -- Use pip
+
+🟡 Intermediate (Some software installation; Will not work on Windows PC)
+
+Alternatively, you may also install the required dependencies with `pip`. We highly recommend to use a [virtual environment](https://docs.python.org/3/library/venv.html) for this:
+
+1. Clone the workshop git repo
+
+   `git clone https://github.com/gw-odw/odw.git`
+
+2. Move into the directory with the workshop git repo
+
+   `cd odw`
+
+3. Create a new virtual environment
+
+   `python -m venv env`
+
+4. Activate the newly created environment
+
+   `source env/bin/activate`
+
+5. Export required build flags
+
+   `export CFLAGS="-Wno-int-conversion"`
+
+6. Install the dependencies
+
+   `pip install -r requirements.txt`
+
+7. Start the Jupyter notebook server
+
+   `jupyter notebook`
+
+8. If you return later, do not forget to reactivate the environment before running `jupyter notebook` (step 4).
+
+Note: the above process has been tested with Python 3.12. We do not guarantee that it will work on other Python versions.
+
+Note: this repository contains a `pyproject.toml` file, and should thus be compatible with other common python package managers (hatch, poetry, uv...). This is however untested; in case of doubt, we advise users to follow the instructions above.
+
+## Option 5: Linux install on Windows with dedicated app (Windows 10 or 11)
 
 🟠 Advanced (For Windows 10 or 11)
 

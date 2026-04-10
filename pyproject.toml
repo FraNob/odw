@@ -1,0 +1,14 @@
+[project]
+name = "odw"
+version = "2026.1"
+description = "Package containing the tutorials and challenges for the Gravitational Waves Open Data Workshop"
+readme = "README.md"
+requires-python = ">=3.12"
+dynamic = ["dependencies"]
+
+# Necessary else setuptools is confused about the structure of the "package"
+[tool.setuptools]
+py-modules = []
+
+[tool.setuptools.dynamic]
+dependencies = {file = ["requirements.txt"]}
