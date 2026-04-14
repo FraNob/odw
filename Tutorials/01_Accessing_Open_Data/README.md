@@ -11,5 +11,5 @@ Those tutorials show how to access Open Data with different packages:
 ## More documentation
 
 - [gwosc client home page](https://git.ligo.org/gwosc/client)
-- [GWpy home page](https://gwpy.readthedocs.io/en/stable/)
+- [GWpy home page](https://gwpy.readthedocs.io/en/v3.0.14/)
 - [PyCBC home page](https://pycbc.org/)
