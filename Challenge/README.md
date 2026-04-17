@@ -75,9 +75,8 @@ against your score. For each signal you find, list:
 
 2. Identify as many glitches as you can. Make a spectrogram of each one.
 
-3. For each simulated BBH you found, use bilby to compute a posterior
-   distribution for the mass. You can fix the spin and mass ratio to make
-   this run faster.
+3. For the earliest event you found, use bilby to compute the posterior distribution for the mass.
+   Fix the spin and mass ratio to make this run faster.
 
 ### Useful notes
 
