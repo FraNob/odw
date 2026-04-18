@@ -5,7 +5,7 @@ In order to be able to execute the notebooks with the tutorials, you should conf
 **Notebooks:**
 If you are not familiar with Jupyter notebooks, google one of the many introductory guides available on the internet, like <a href="https://realpython.com/jupyter-notebook-introduction/">this one</a>. Also, taking a look at the <a href="https://colab.research.google.com/notebooks/basic_features_overview.ipynb">Examples</a> offered by Google Colab can be helpful.
 
-The various options are listed in order of difficulty. However, whenever possible, we recommend the participants with some experience with Python environments to follow [Option 3](#option3), installing the requirements on their laptops and executing the tutorial notebooks from there. This has the advantage of avoiding any possible issue with online servers, including unstable internet connection or uneven memory and server availability, both on Colab and on MyBinder.
+The various options are listed in order of difficulty. However, whenever possible, we recommend the participants with some experience with Python environments to follow Option 3 or Option 4, installing the requirements on their laptops and executing the tutorial notebooks from there. This has the advantage of avoiding any possible issue with online servers, including unstable internet connection or uneven memory and server availability, both on Colab and on MyBinder.
 
 This workshop uses [Python version 3.12](https://www.python.org/downloads/release/python-3120/).
 
