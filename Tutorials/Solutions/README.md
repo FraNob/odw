@@ -9,11 +9,11 @@ $ gpg -d solutions.tar.gz.gpg | tar -xvzf -
 ```
 to produce all solutions.
 
-You can add solution in the form of text or markdown file, if they require just a few explanation sentences or lines of code. Otherwise, feel free to create and upload a Jupyter notebook. Use the same environment of the workshop to create it.
+The structure is the same than the `Tutorials` folder.
 
-To add a new solution, or edit an existing solution. First, unpack the solutions as above. Then, run
+To add a new solution, or edit an existing solution. First, unpack the solutions as above. Edit and run the notebook (check that it is up-to-date with it's blank counterpart). Then, run
 ```
-$ tar -cvzf - Solutions_Tuto* | gpg -c > solutions.tar.gz.gpg
+$ tar -czvf - 01_Accessing_Open_Data/ 02_Generating_Waveforms/ 03_Signal_Processing/ 04_Searches/ 05_Parameter_Estimation/ | gpg -c > solutions.tar.gz.gpg
 ```
 Then finally git add the `solutions.tar.gz.gpg` and commit in the usual way.
 
